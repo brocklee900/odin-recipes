@@ -1,0 +1,30 @@
+
+.page-head {
+    padding: 20px 0px;
+    text-align: center
+}
+
+.homelink {
+    font-size: 30px;
+}
+
+body {
+    box-sizing: border-box;
+    display:block;
+    width: 800px;
+    margin: 0px auto;
+}
+
+h1 {
+    background-color: #66e4be;
+    padding: 20px;
+    margin: 20px 0px;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+    padding: 5px;
+}
+
