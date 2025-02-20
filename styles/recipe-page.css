@@ -1,0 +1,60 @@
+
+.page-head {
+    box-sizing: border-box;
+    background-color: #66e4be;
+    padding: 10px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    flex:1;
+}
+
+.homelink {
+    font-size: 20px;
+    align-self: flex-start;
+}
+
+body {
+    box-sizing: border-box;
+    display:block;
+    width: 1000px;
+    padding: 20px 0px;
+    margin: 0px auto;
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+
+h1 {
+    padding: 20px 0px;
+    margin: 0px;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    align-self: center;
+}
+
+h2 {
+    padding: 0px;
+    margin: 0px;
+}
+
+.content {
+    width: 800px;
+    align-self: center;
+}
+
+img {
+    align-self: center;
+}
+
+li {
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
